@@ -3,6 +3,7 @@
 ### Binary Operators
 | operator    | precedence   | associativity
 | ---         | ---          | ---           
+| Range Operator        | 0  | N/A*
 | Logical Or            | 1  | Left          
 | Logical And           | 2  | Left
 | Bitwise Or            | 3  | Left
@@ -16,3 +17,7 @@
 | Multiplication        | 10 | Left
 | Division
 | Modulus
+
+*The range operator requires parentheses. 
+It cannot be chained.
+
