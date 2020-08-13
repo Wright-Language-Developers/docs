@@ -18,4 +18,5 @@ After the first digit, underscores ("\_") may be used for style or readability.
 Underscores do not affect the value of the integer.
 
 At the end, there may optionally be a tag to indicate the type. The
-tag will be any one of the primitive integral types listed [here]().
+tag will be any one of the primitive integral types listed
+[here](https://github.com/Wright-Language-Developers/docs/blob/master/syntax/types/primitives.md#integer-types).
